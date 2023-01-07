@@ -9,3 +9,4 @@
 # Welcome to ENTR-451
 
 This is the code for the first week - is it?.
+Editing the code once more as practice at home. 
