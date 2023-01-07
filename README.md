@@ -10,3 +10,4 @@
 
 This is the code for the first week - is it?.
 Editing the code once more as practice at home. 
+Editing again on Gitpod and trying to send them to Github. 
